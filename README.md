@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanskar Jamadar</h1>
+<<h1 align="center">Hi 👋, I'm Sanskar Jamadar</h1>
 <h3 align="center">Studying Computer Engineering at College of Engineering Pune (COEP)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskarjamadar&label=Profile%20views&color=0e75b6&style=flat" alt="sanskarjamadar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
